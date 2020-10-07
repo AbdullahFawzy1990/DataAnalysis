@@ -15,7 +15,7 @@ Python 3
 - random
 
 ## Learnings:
-- Using several methods to extract and manipulate datasets:
+- Using several methods to extract and manipulate datasets ### (Datasets range from 50K to 1Million+ entries) :
     - SQL.
     - APIs. (e.g. tweepy API)
     - Excel.
